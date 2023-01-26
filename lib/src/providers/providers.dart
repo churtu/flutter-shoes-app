@@ -1,0 +1,1 @@
+export 'package:adv_shoes_app/src/providers/zapato_provider.dart';
